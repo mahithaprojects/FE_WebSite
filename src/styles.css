@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  background: #f9f9f9;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 1rem;
+}
+
+button {
+  padding: 0.6rem 1rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
