@@ -1,7 +1,7 @@
 // src/App.jsx
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home.jsx";
-import GetUser from "./pages/getUser.jsx";
+import Home from "./pages/Home.jsx";
+import GetUser from "./pages/GetUser.jsx";
 import CreateUser from "./pages/CreateUser.jsx";
 
 export default function App() {
